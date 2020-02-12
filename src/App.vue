@@ -26,7 +26,7 @@
     name: 'app',
     data () {
       return {
-        api_key: 'bc44a72c029bcfd5792ce1315fdb4048',
+        api_key: 'get_your_key_from_https://openweathermap.org/api',
         url_base: 'https://api.openweathermap.org/data/2.5/',
         query: '',
         weather: {}
