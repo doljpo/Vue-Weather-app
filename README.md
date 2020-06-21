@@ -1,24 +1,5 @@
 # weather-vue
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Based from TylerPottsDev's [weather-vue](https://github.com/TylerPottsDev/weather-vue)
+Weather app tutorial [video](https://www.youtube.com/watch?v=JLc-hWsPTUY)
+TylerPottsDev's [Youtube Channel](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
